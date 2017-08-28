@@ -1,0 +1,9 @@
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\bin\MCD\Debug\netcoreapp1.1\GitHubTest.deps.json
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\bin\MCD\Debug\netcoreapp1.1\GitHubTest.runtimeconfig.json
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\bin\MCD\Debug\netcoreapp1.1\GitHubTest.runtimeconfig.dev.json
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\bin\MCD\Debug\netcoreapp1.1\GitHubTest.dll
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\bin\MCD\Debug\netcoreapp1.1\GitHubTest.pdb
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\obj\MCD\Debug\netcoreapp1.1\GitHubTest.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\obj\MCD\Debug\netcoreapp1.1\GitHubTest.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\obj\MCD\Debug\netcoreapp1.1\GitHubTest.dll
+C:\Users\Chris\Desktop\Revature Code\chris-code\GitHubTest\obj\MCD\Debug\netcoreapp1.1\GitHubTest.pdb
